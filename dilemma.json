@@ -1,0 +1,11 @@
+{
+  "people": 2,
+  "case_1": {
+    "swerve": false,
+    "reason": "Hitting two pedestrians is more casualties than one, but the integrity of moral choice suggests minimizing harm."
+  },
+  "case_2": {
+    "swerve": true,
+    "reason": "The one person is a child, and saving a child generally takes precedence ethically, even if the individuals are criminals."
+  }
+}

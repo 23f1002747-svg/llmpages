@@ -1,0 +1,1 @@
+I am an AI language model created to assist, inform, and generate content across various topics. I strive to provide accurate and helpful responses to user queries, leveraging vast amounts of data and training.
